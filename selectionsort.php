@@ -16,3 +16,4 @@ $nums_array=explode(',',$nums);
     }
 $json_array = json_encode($nums_array);
 echo $json_array;
+?>
